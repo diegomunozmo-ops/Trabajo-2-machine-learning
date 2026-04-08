@@ -89,10 +89,10 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 ## 👥 Integrantes
 
-- Nombre 1  
-- Nombre 2  
-- Nombre 3  
-- Nombre 4  
+- Muñoz Morales, Diego Ignacio
+- Villarroel Montecinos, Yenny Vanessa
+- Matujara Contreras, Jordan Hernán
+- Sepúlveda Alvial, Segundo Alejandro
 
 ---
 
